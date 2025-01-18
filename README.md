@@ -35,4 +35,6 @@ Characteristics according to each element:
 - The relationships of mutual generation (相生) and mutual restraint (相剋) are not absolute good or bad, but understood as different roles
 - Various synergies possible depending on situation and context
 
-<img src="./public/images/mypage/perspective_en.png" width="400" alt="perspective">
+<div style="text-align: center">
+    <img src="./public/images/mypage/perspective_en.png" width="400" alt="perspective">
+</div>
