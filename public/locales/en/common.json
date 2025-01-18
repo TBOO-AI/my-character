@@ -1,0 +1,61 @@
+{
+  "home_title": "Please enter your information\nto check your daily fortune\n(Please enter in the solar calendar)",
+  "form_birthdate": "DATE OF BIRTH",
+  "form_birthtime": "TIME OF BIRTH",
+  "form_gender": "GENDER",
+  "form_submit": "Done",
+  "form_birthdate_help": "Please enter your date of birth",
+  "form_birthtime_help": "If you don't know your time of birth, please enter 12:00",
+  "form_gender_help": "Please select your gender",
+  "form_gender_male": "Male",
+  "form_gender_female": "Female",
+  "form": {
+    "helper_text": {
+      "birthdate": {
+        "required": "birthdate is a required field",
+        "detail_format": "Please enter in the format YYYY-MM-DD"
+      },
+      "birthtime": {
+        "required": "birthtime is a required field",
+        "detail_format": "Please enter in the format HH:MM"
+      }
+    }
+  },
+  "character": {
+    "title": "My Character",
+    "subtitle": "A Character Representing the Day I Was Born",
+    "chart": {
+      "title": "My Disposition Chart",
+      "option_1": "Social Skills, Tact",
+      "option_2": "Kindness, Drive",
+      "option_3": "Leadership, Activeness",
+      "option_4": "Perfectionism, Sharpness",
+      "option_5": "Calmness, Diligence"
+    },
+    "relation": {
+      "title": "Representative characters and relationships",
+      "image": "/images/mypage/perspective_en.png",
+      "description": "The proportions that make up who I am can become unbalanced if a certain tendency is overly dominant or absent. Rather than focusing on the relationship between different tendencies, it is more important to achieve harmony with tendencies that complement me."
+    },
+    "most_oheang": {
+      "water": "Social Skills, Tact is the most",
+      "wood": "Kindness, Drive is the most",
+      "fire": "Leadership, Activeness is the most",
+      "gold": "Perfectionism, Sharpness is the most",
+      "ground": "Calmness, Diligence is the most"
+    }
+  },
+  "share": {
+    "title": "Introduce your own character!",
+    "content": "Discover your own unique character through @tboo_ai!",
+    "button": "Share",
+    "instagram": "Share on Instagram",
+    "twitter": "Share on Twitter",
+    "native": "Share link",
+    "linkCopied": "Link copied to clipboard",
+    "error": {
+      "ios": "Please try again in Safari browser.",
+      "notSupport": "This device does not support file sharing."
+    }
+  }
+}

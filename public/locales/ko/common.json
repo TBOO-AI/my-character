@@ -1,0 +1,61 @@
+{
+  "home_title": "띠부 이용을 위해\n당신의 정보를 알려주세요\n(양력으로 입력해주세요)",
+  "form_birthdate": "생년월일",
+  "form_birthtime": "출생시간",
+  "form_gender": "성별",
+  "form_submit": "완료",
+  "form_birthdate_help": "생년월일을 입력해주세요",
+  "form_birthtime_help": "출생시간을 모르시면 12:00으로 입력해주세요",
+  "form_gender_help": "성별을 선택해주세요",
+  "form_gender_male": "남성",
+  "form_gender_female": "여성",
+  "form": {
+    "helper_text": {
+      "birthdate": {
+        "required": "생년월일은 필수 입력 필드입니다.",
+        "detail_format": "YYYY-MM-DD 형식으로 입력해주세요"
+      },
+      "birthtime": {
+        "required": "출생시간은 필수 입력 필드입니다.",
+        "detail_format": "HH:MM 형식으로 입력해주세요"
+      }
+    }
+  },
+  "character": {
+    "title": "나의 캐릭터",
+    "subtitle": "내가 태어난 날을 대표하는 캐릭터",
+    "chart": {
+      "title": "나의 성향 비율",
+      "option_1": "사회성, 처세술",
+      "option_2": "인자함, 추진력",
+      "option_3": "리더십, 활동적",
+      "option_4": "완벽주의, 예리함",
+      "option_5": "차분함, 성실함"
+    },
+    "relation": {
+      "title": "성향 별 대표 캐릭터와 관계",
+      "image": "/images/mypage/perspective_ko.png",
+      "description": "나를 구성하는 비율은 특정 성향에 편중되거나 없으면 균형이 깨질 수 있습니다. 각 성향의 관계보다는 나를 보완해 주는 성향의 조화가 중요합니다."
+    },
+    "most_oheang": {
+      "water": "사회성, 처세술의 비율이 가장 많아요",
+      "wood": "인자함, 추진력의 비율이 가장 많아요",
+      "fire": "리더십, 활동적의 비율이 가장 많아요",
+      "gold": "완벽주의, 예리함의 비율이 가장 많아요",
+      "ground": "차분함, 성실함의 비율이 가장 많아요"
+    }
+  },
+  "share": {
+    "title": "나만의 캐릭터를 소개해보세요!",
+    "content": "@tboo_ai 를 통해서 나만의 캐릭터를 발견해보세요!",
+    "button": "공유하기",
+    "instagram": "Instagram으로 공유하기",
+    "twitter": "Twitter로 공유하기",
+    "native": "링크 공유하기",
+    "linkCopied": "링크가 복사되었습니다.",
+    "error": {
+      "ios": "사파리 브라우저에서 다시 시도해주세요.",
+      "notSupport": "이 기기는 파일 공유를 지원하지 않습니다."
+    }
+  }
+}
