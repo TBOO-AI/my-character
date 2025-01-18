@@ -4,7 +4,7 @@ A Saju-based character analysis service by TBOO.AI.
 
 - Website: https://my.tboo.ai
 
-## What is Saju?
+## What is Saju (Four Pillars of Destiny)?
 
 Saju is a destiny interpretation system based on Eastern philosophy, consisting of four pillars representing one's birth year, month, day, and time. Each pillar is composed of Heavenly Stems (天干) and Earthly Branches (地支), which are used to analyze an individual's innate personality and flow of destiny.
 
