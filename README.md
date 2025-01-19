@@ -22,13 +22,15 @@ Saju is a destiny interpretation system based on Eastern philosophy, consisting 
 
 Characteristics according to each element:
 
+![all charactor](./public/images/all_charactor.png)
+
 | Element | Key Characteristics      |
 | ------- | ------------------------ |
 | Metal   | Perfectionism, Sharpness |
 | Water   | Sociability, Agility     |
 | Wood    | Kindness, Drive          |
 | Fire    | Leadership, Activity     |
-| Ground  | Calmness, Diligence      |
+| Earth   | Calmness, Diligence      |
 
 ### Character Relationships
 
