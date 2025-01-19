@@ -41,7 +41,7 @@ function Chart({ data }: { data: any }) {
     {
       id: t('character.chart.option_5'),
       label: t('character.chart.option_5'),
-      value: data?.ground,
+      value: data?.earth,
       color: '#FFDA23',
     },
   ]
